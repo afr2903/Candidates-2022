@@ -1,54 +1,43 @@
-# Project Name
-
-
-
-## Description
-
-
-
-## Table of contents
-
-- [Project Name](#project-name)
-  - [Description](#description)
-  - [Table of contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Development team](#development-team)
-  - [References/Support links](#references-support-links)
-  - [License](#license) 
-
-## Installation
-
-1. Clone the project repository on your local machine.
-
-   SSH:
-
-   ```bash
-   $ git clone --recurse-submodules https://github.com/RoBorregos/
-   ```
-
-
-## Usage
-
-How to use the project after installation.
-Pictures of the project working.
-
+# RoBorregos Candidates 2021 
 
 ## Development team
 
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| Aurora Tijerina | [auro.tj@gmail.com](mailto:auro.tj@gmail.com) | [@AuroTB](https://github.com/aurotb) | Navigation & Integration |
-| Brenda Martínez Orta | [bmaor2001@gmail.com](mailto:bmaor2001@gmail.com) | [@bmaor2001](https://github.com/bmaor2001) | Result data decoding |
-| Keven Arroyo | [dake.3601@gmail.com](mailto:dake.3601@gmail.com) | [@dake3601](https://github.com/dake3601) | Path finding |
-| Ivan Sol | [onticastro7@gmail.com](mailto:onticastro7@gmail.com) | [@IvanSol123](https://github.com/IvanSol123) | Mechanics |
+| José Cisneros | [A01283070@itesm.mx](mailto:A01283070@itesm.mx) | [@Josecisneros001](https://github.com/Josecisneros001) | PM & Programmer |
+| Aurora Tijerina | [vegakevinrdz@gmail.com](mailto:vegakevinrdz@gmai.com) | [@AuroTB](https://github.com/aurotb) | Navigation & Integration |
 
 
-## References/Support links
+## Env setup
+1. Install ROS Noetic : [Reference](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
-- [Support CODEOWNERS](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/about-code-owners)
-- [Creating a pull request template](https://docs.github.com/es/github-ae@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
-- [Branch naming convention](https://deepsource.io/blog/git-branch-naming-conventions/)
+## Installation
 
-## License
-License used.
+1. **IMPORTANT: Fork the repository into your account**
+
+2. Clone the project repository on your local machine.
+
+HTTP:
+``` bash
+$ git clone https://github.com/your-username/Candidates-2022.git
+```
+
+SSH:
+``` bash 
+$ git clone git@github.com:your-username/Candidates-2022.git
+```
+
+###*************needs to change******************
+### Architecture Challenge:
+2. Change to branch systemArchitectureChallenge
+
+   ```bash
+   $ git checkout systemArchitectureChallenge
+   ```
+
+### Integration Challenge:
+2. Change to branch systemIntegrationChallenge
+
+   ```bash
+   $ git checkout systemIntegrationChallenge
+   ```
