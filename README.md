@@ -5,7 +5,7 @@
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
 | José Cisneros | [A01283070@itesm.mx](mailto:A01283070@itesm.mx) | [@Josecisneros001](https://github.com/Josecisneros001) | PM & Programmer |
-| Aurora Tijerina | [vegakevinrdz@gmail.com](mailto:vegakevinrdz@gmai.com) | [@AuroTB](https://github.com/aurotb) | Navigation & Integration |
+| Kevin Vega | [vegakevinrdz@gmail.com](mailto:vegakevinrdz@gmai.com) | [@KevinVegaTec](https://github.com/KevinVegaTec)   | PM & Programmer  |
 
 
 ## Env setup
