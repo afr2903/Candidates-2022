@@ -1,4 +1,4 @@
-# RoBorregos Candidates 2022
+#  Navigation Challenge - RoBorregos Candidates 2022 
 
 ## Development team
 
@@ -9,7 +9,8 @@
 
 
 ## Env setup
-1. Install ROS Noetic : [Reference](http://wiki.ros.org/noetic/Installation/Ubuntu)
+1. Install ROS Melodic with tiago : [Reference](http://wiki.ros.org/Robots/TIAGo/Tutorials/Installation/InstallUbuntuAndROS)
+2. Or Install Tiago with Docker: [Reference](http://wiki.ros.org/Robots/TIAGo/Tutorials/Installation/Installing_Tiago_tutorial_docker)
 
 ## Installation
 
@@ -26,18 +27,15 @@ SSH:
 ``` bash 
 $ git clone git@github.com:your-username/Candidates-2022.git
 ```
+**Be sure to be in the NavigationChallenge Branch**
 
-###*************needs to change******************
-### Architecture Challenge:
-2. Change to branch systemArchitectureChallenge
+Tasks:
+1. Follow [TIAGo Tutorials](http://wiki.ros.org/noetic/Installation/Ubuntu) in order to understand how the navigation system works
+2. Create a map (using [@Home map](https://github.com/RoBorregos/robocup-home/blob/develop/catkin_home/src/simulation/worlds/manipulation.world) ) 
+3. Design a system using the navigation stack and save at least 4 different goals
+4. Plan a route avoiding an area (n point)
+5. With the goals saved, make an script to load and send to the navigation node.
 
-   ```bash
-   $ git checkout systemArchitectureChallenge
-   ```
-
-### Integration Challenge:
-2. Change to branch systemIntegrationChallenge
-
-   ```bash
-   $ git checkout systemIntegrationChallenge
-   ```
+## References
+- [TIAGo Tutorials](http://wiki.ros.org/Robots/TIAGo/Tutorials)
+- [ROS Navigation](http://wiki.ros.org/navigation)
