@@ -27,7 +27,9 @@ SSH:
 ``` bash 
 $ git clone git@github.com:your-username/Candidates-2022.git
 ```
+
 **Be sure to be in the NavigationChallenge Branch**
+
 
 Tasks:
 1. Follow [TIAGo Tutorials](http://wiki.ros.org/noetic/Installation/Ubuntu) in order to understand how the navigation system works
