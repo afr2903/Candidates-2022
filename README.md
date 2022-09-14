@@ -30,6 +30,8 @@ $ git clone git@github.com:your-username/Candidates-2022.git
 
 GetObject and GetTarget services are done in the challenge_ws
 
+<img src='Reto Integracion CD2022.jpg' width="700"/>
+
 Tasks:
 1. Develop the Navigation ActionServer
 2. Develop the Speech ActionServer
