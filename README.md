@@ -27,17 +27,22 @@ SSH:
 $ git clone git@github.com:your-username/Candidates-2022.git
 ```
 
-###*************needs to change******************
-### Architecture Challenge:
-2. Change to branch systemArchitectureChallenge
+### Integration Challenge:
+2. Change to branch IntegrationChallenge
 
    ```bash
-   $ git checkout systemArchitectureChallenge
+   $ git checkout IntegrationChallenge
    ```
 
-### Integration Challenge:
-2. Change to branch systemIntegrationChallenge
+### Navigation Challenge:
+2. Change to branch NavigationChallenge
 
    ```bash
-   $ git checkout systemIntegrationChallenge
+   $ git checkout NavigationChallenge
+   ```
+### Manipulation Challenge:
+2. Change to branch ManipulationChallenge
+
+   ```bash
+   $ git checkout ManipulationChallenge
    ```
