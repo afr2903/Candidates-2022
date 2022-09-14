@@ -1,4 +1,4 @@
-# RoBorregos Candidates 2022
+# Integration Challenge | RoBorregos Candidates 2022
 
 ## Development team
 
@@ -26,18 +26,19 @@ SSH:
 ``` bash 
 $ git clone git@github.com:your-username/Candidates-2022.git
 ```
+**Be sure to be in the Integration Challenge Branch**
 
-###*************needs to change******************
-### Architecture Challenge:
-2. Change to branch systemArchitectureChallenge
+GetObject and GetTarget services are done in the challenge_ws
 
-   ```bash
-   $ git checkout systemArchitectureChallenge
-   ```
+Tasks:
+1. Develop the Navigation ActionServer
+2. Develop the Speech ActionServer
+3. Develop the Vision ActionServer and the GetInfo service
+4. Develop the Store ActionServer, the Linear Actuator Service and do the phisical implementation with a microcontroller
 
-### Integration Challenge:
-2. Change to branch systemIntegrationChallenge
+##References
+- [actionlib](http://wiki.ros.org/actionlib)
+- [ROS Services](http://wiki.ros.org/Services)
+- [rosserial](http://wiki.ros.org/rosserial)
 
-   ```bash
-   $ git checkout systemIntegrationChallenge
-   ```
+
