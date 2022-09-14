@@ -36,7 +36,7 @@ Tasks:
 3. Develop the Vision ActionServer and the GetInfo service
 4. Develop the Store ActionServer, the Linear Actuator Service and do the phisical implementation with a microcontroller
 
-##References
+## References
 - [actionlib](http://wiki.ros.org/actionlib)
 - [ROS Services](http://wiki.ros.org/Services)
 - [rosserial](http://wiki.ros.org/rosserial)
