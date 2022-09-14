@@ -13,9 +13,9 @@
 
 ## Installation
 
-1. **IMPORTANT: Fork the repository into your account**
+   **IMPORTANT: Fork the repository into your account**
 
-2. Clone the project repository on your local machine.
+1. Clone the project repository on your local machine.
 
 HTTP:
 ``` bash
