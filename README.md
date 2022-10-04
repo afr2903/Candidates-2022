@@ -9,6 +9,8 @@ powered with ROS Noetic and the ROS Navigation Stack.
 
 _Step-by-step implementation was tested in https://github.com/afr2903/navigation_challenge_
 
+Video demonstration: https://youtu.be/m2oyLRKSaFA
+
 ## Features
 
 - PGM file generated through SLAM and optimized for different robot types
