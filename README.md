@@ -7,6 +7,8 @@
 Navigation pathfollower application with a goal selector visual feature,
 powered with ROS Noetic and the ROS Navigation Stack.
 
+_Step-by-step implementation was tested in https://github.com/afr2903/navigation_challenge_
+
 ## Features
 
 - PGM file generated through SLAM and optimized for different robot types
